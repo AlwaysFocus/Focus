@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Focus/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Focus/static/js/main.78876190.chunk.js",
+    "main.js.map": "/Focus/static/js/main.78876190.chunk.js.map",
+    "runtime-main.js": "/Focus/static/js/runtime-main.2ac3c505.js",
+    "runtime-main.js.map": "/Focus/static/js/runtime-main.2ac3c505.js.map",
+    "static/js/2.b74b122e.chunk.js": "/Focus/static/js/2.b74b122e.chunk.js",
+    "static/js/2.b74b122e.chunk.js.map": "/Focus/static/js/2.b74b122e.chunk.js.map",
+    "static/js/3.37f8563e.chunk.js": "/Focus/static/js/3.37f8563e.chunk.js",
+    "static/js/3.37f8563e.chunk.js.map": "/Focus/static/js/3.37f8563e.chunk.js.map",
+    "index.html": "/Focus/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/Focus/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.b74b122e.chunk.js.LICENSE.txt": "/Focus/static/js/2.b74b122e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Focus/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ac3c505.js",
+    "static/js/2.b74b122e.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.78876190.chunk.js"
+  ]
+}
