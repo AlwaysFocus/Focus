@@ -1,4 +1,5 @@
 import React from "react";
+import landing from "../../assets/images/Landing.svg";
 import {
   ContentSection,
   Showcase,
@@ -16,7 +17,7 @@ const Landing = () => {
       <Showcase>
         <ShowcaseHeader>AlwaysFocus</ShowcaseHeader>
         <ShowcaseImgContainer>
-          <ShowcaseImg src="/focus/landing.svg"></ShowcaseImg>
+          <ShowcaseImg src={landing}></ShowcaseImg>
         </ShowcaseImgContainer>
         <ShowcaseInfo>
           <ShowcaseInfoHeader>Constantly Improving</ShowcaseInfoHeader>

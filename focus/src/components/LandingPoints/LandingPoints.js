@@ -1,4 +1,7 @@
 import React from "react";
+import data from "../../assets/images/data.svg";
+import integrate from "../../assets/images/integrate.svg";
+import ai from "../../assets/images/AI.svg";
 import {
   PointsContainer,
   PointsSection,
@@ -18,17 +21,17 @@ const LandingPoints = () => {
         <PointsTitle>Overview</PointsTitle>
         <PointsCardsContainer>
           <PointsCard>
-            <PointsImage src="/focus/AI.svg"></PointsImage>
+            <PointsImage src={ai}></PointsImage>
             <PointsCardFeatureTitle>Machine Learning</PointsCardFeatureTitle>
             <PointsCardFeatureText></PointsCardFeatureText>
           </PointsCard>
           <PointsCard>
-            <PointsImage src="/focus/data.svg"></PointsImage>
+            <PointsImage src={data}></PointsImage>
             <PointsCardFeatureTitle>Data Analytics</PointsCardFeatureTitle>
             <PointsCardFeatureText></PointsCardFeatureText>
           </PointsCard>
           <PointsCard>
-            <PointsImage src="/focus/integrate.svg"></PointsImage>
+            <PointsImage src={integrate}></PointsImage>
             <PointsCardFeatureTitle>System Integration</PointsCardFeatureTitle>
             <PointsCardFeatureText></PointsCardFeatureText>
           </PointsCard>
