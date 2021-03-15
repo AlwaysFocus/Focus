@@ -1,0 +1,21 @@
+.input {
+    border: none;
+    color: black;
+    background-color: orange;
+    padding: 1rem 0.5rem;
+    font-size: 2rem;
+    border-radius: 2rem;
+    border-style: none;
+}
+
+.small {
+    width: 4rem;
+}
+
+.medium {
+    width: 8rem;
+}
+
+.large {
+    width: 12rem;
+}
